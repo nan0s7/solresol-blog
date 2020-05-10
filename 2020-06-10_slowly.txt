@@ -1,0 +1,33 @@
+  Sometimes you have to work on a few things rather than focussing on one thing until completion.
+  
+  Recently, most of my time has been taken up by typing out the text from Theorie et Pratique (T&P) into either the Wiki, or 
+into the dictionary. With so much work still yet to be done, I've decided to rotate between working on the T&P document, and
+the original document (well what we believe to be the original); "Langue Musicale Universelle au moyen de laquelle tous les
+Differents peuples de la Terre, les Aveugles, les Sourds et les Muets" (LMU). This document, again, in French, contains a rough
+timeline of Sudre's (the creator) work on the language, as well as a couple of dictionaries and very brief grammar descriptions.
+
+  The dictionaries in LMU are fairly detailed; usually giving most if not all parts of speech one word can represent. If
+you're new to Solresol; each syllable of a word can be given an accent, which changes the part of speech it represents in a
+sentence, and in some cases it may change the meaning. So if you have a four-syllable word; no accent can represent a verb,
+accenting the first syllable may be a noun, second an agent noun, third an adjective, and fourth an adverb. From this, 
+I've been adding each word and its meanings into my dictionary, alongside the words from T&P and a couple of other sources,
+and when I can, their English translations. From here I'm able to line-up meanings across various documents to find the 
+"most correct" definitions for words.
+
+  Most of the time, words line-up perfectly. However, the definitions were updated over time the more the language was used
+by Sudre and his wife. This wouldn't be such a problem if we knew which definitions were more up-to-date and or final, but
+all documents we have access to were published after Sudre had passed away. When Sudre had passed, his wife made sure to
+collect as much information as she could, publishing these documents in a single year, to the National Library of France.
+
+  Sudre himself, according to second-hand accounts, published quite a few documents about the language. However, they seem to
+have been lost to time for the most part. A few older documents survived, but the language had evolved between those and the
+ones his wife saved. So without a doubt, Marie-Josephine Sudre, managed to save at least two of the most important documents
+we are aware of. Without her part, I probably wouldn't be sitting here spending hours of my day on this language, nor typing
+out these sentences.
+
+  We do have a later document, that was published by a Boleslas Gajewski, but is no where close to being detailed enough to
+reconstruct the complete language. But, being a newer document, we know the words given there are more likely to be the
+most up-to-date definitions. Also due to it being newer, it was more well-preserved, and played a large part of the popularity
+of Solresol during the early stages of the Internet.
+
+  I'd better get back to work.
